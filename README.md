@@ -17,4 +17,4 @@ A simple clone of the Udemy website built using HTML and basic CSS. This project
 
 ## Demo
 
-[Insert Link to Live Demo]
+[[Link](https://sabari0307.github.io/udemy-clone/)]
